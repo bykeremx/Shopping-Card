@@ -25,7 +25,30 @@ Bu proje, **React.js** kullanılarak geliştirilmiş bir e-ticaret uygulamasıd�
 
 ## :floppy_disk: **Kurulum**
 
-### :one: Projeyi Klonlayın
+### 1. Projeyi Klonlayın
+Git deposunu klonlamak için şu adımları izleyin:
 ```bash
 git clone https://github.com/kullanici-adi/react-uygulama.git
 cd react-uygulama
+```
+---
+### 2. Bağımlılıkları Yükleyin
+
+
+```bash
+npm install
+```
+---
+### 3. JSON Server'ı Başlatın
+```bash
+`json-server --watch db.json --port 5000` 
+```
+--- 
+### 4. React Uygulamasını Başlatın
+```bash
+`npm start`
+```
+--- 
+### :closed_lock_with_key::**Lisans**
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
+
