@@ -1,0 +1,31 @@
+.invoice-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-body {
+    background-color: #f9f9f9;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  .table thead {
+    background-color: #007bff;
+    color: white;
+  }
+  
