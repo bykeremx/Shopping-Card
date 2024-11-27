@@ -1,6 +1,6 @@
 # :shopping_cart: **React Uygulaması**
 
-Bu proje, **React.js** kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Uygulamada ürünler, kategoriler, sepet ve fatura özellikleri bulunmaktadır. Ayrıca, **JSON Server API** entegrasyonu ile dinamik veri işlemleri yapılmaktadır.
+Bu proje, **React.js** kullanılarak geliştirilmiş bir sepet uygulamasıdır. Uygulamada ürünler, kategoriler ve  sepet  özellikleri bulunmaktadır. Ayrıca, **JSON Server API** entegrasyonu ile dinamik veri işlemleri yapılmaktadır.
 
 ---
 
@@ -28,7 +28,7 @@ Bu proje, **React.js** kullanılarak geliştirilmiş bir e-ticaret uygulamasıd�
 ### 1. Projeyi Klonlayın
 Git deposunu klonlamak için şu adımları izleyin:
 ```bash
-git clone https://github.com/kullanici-adi/react-uygulama.git
+git clone https://github.com/bykeremx/Shopping-Card.git
 cd react-uygulama
 ```
 ---
